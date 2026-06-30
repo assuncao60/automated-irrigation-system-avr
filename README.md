@@ -19,5 +19,5 @@ An embedded systems project that models and implements an automated irrigation c
 ## Repository Structure
 
 * `main.c`: Core application logic and Finite State Machine execution.
-* `hardware.s`: Low-level Assembly routines for direct hardware and timer control.
+* `controlo_nivel.s`: Low-level Assembly routines for direct hardware and timer control.
 * `/docs`: Contains the full technical engineering report (PDF) detailing state diagrams, hardware schematics, and memory mapping.
